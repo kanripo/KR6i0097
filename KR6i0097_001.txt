@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:41.641128
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:50
 #+TITLE: 淨名經關中釋抄
 #+PROPERTY: CBETA_ID T85n2778
 #+PROPERTY: ID KR6i0097
@@ -681,7 +681,7 @@ No.2778[cf.No.2777]¶
 經據理三點常圓。在名偏當解脫。抑小揚大¶
 經之意焉。¶
 
-釋序文四
+* 釋序文四
 :PROPERTIES:
 :head: 釋序文四
 :END:
